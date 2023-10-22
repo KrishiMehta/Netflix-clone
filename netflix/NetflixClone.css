@@ -169,6 +169,7 @@ hero_desc {
   /* background-color: rgba(236, 233, 233, 0.533); */
   background-color: #99999969;
   /* z-index: 1; */
+  margin-top: 80px;
 }
 .card-2 {
   position: relative;
